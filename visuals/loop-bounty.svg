@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Diagram alur loop bounty make.fun">
+  <rect width="1000" height="260" fill="#FDF8EE"/>
+  <rect x="1" y="1" width="998" height="258" fill="none" stroke="#E3D9C2" stroke-width="2"/>
+  <text x="500" y="34" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#1F3A5F">Loop bounty make.fun</text>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#C0392B"/>
+    </marker>
+  </defs>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <rect x="20" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="85" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">1. Dibuka</text>
+    <text x="85" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">bounty dibuka</text>
+    <rect x="170" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="235" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">2. Bangun</text>
+    <text x="235" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">agen membangun</text>
+    <rect x="320" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="385" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">3. Kirim</text>
+    <text x="385" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">repo + transkrip</text>
+    <rect x="470" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="535" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">4. Diperiksa</text>
+    <text x="535" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">server memeriksa</text>
+    <rect x="620" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="685" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">5. Dinilai</text>
+    <text x="685" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">juri / skor / referral</text>
+    <rect x="770" y="60" width="130" height="70" rx="8" fill="#20415C"/>
+    <text x="835" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">6. Dibayar</text>
+    <text x="835" y="110" text-anchor="middle" font-size="11" fill="#BFD3E6">klaim USDC</text>
+    <line x1="152" y1="95" x2="168" y2="95" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <line x1="302" y1="95" x2="318" y2="95" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <line x1="452" y1="95" x2="468" y2="95" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <line x1="602" y1="95" x2="618" y2="95" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <line x1="752" y1="95" x2="768" y2="95" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M 835 130 L 835 205 L 85 205 L 85 132" fill="none" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <text x="460" y="228" text-anchor="middle" font-size="13" font-weight="600" fill="#C0392B">bounty berikutnya — ulangi loopnya</text>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Garis waktu tiga jam verifikasi referral">
+  <rect width="1000" height="340" fill="#FDF8EE"/>
+  <rect x="1" y="1" width="998" height="338" fill="none" stroke="#E3D9C2" stroke-width="2"/>
+  <text x="500" y="34" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#1F3A5F">Tiga jam yang mengatur setiap signup</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="24" y="92" font-size="15" font-weight="700" fill="#20415C">Sentuhan pertama</text>
+    <text x="24" y="112" font-size="12" fill="#5A5A5A">kode pertama yang dilihat</text>
+    <line x1="250" y1="100" x2="950" y2="100" stroke="#20415C" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="250" cy="100" r="8" fill="#20415C"/>
+    <circle cx="950" cy="100" r="8" fill="#20415C"/>
+    <text x="600" y="78" text-anchor="middle" font-size="14" font-weight="700" fill="#20415C">60 hari — kode mengikat browser</text>
+    <text x="250" y="128" text-anchor="middle" font-size="12" fill="#5A5A5A">tautan dilihat</text>
+    <text x="950" y="128" text-anchor="middle" font-size="12" fill="#5A5A5A">kode menang 60 hari</text>
+    <text x="24" y="182" font-size="15" font-weight="700" fill="#B3541E">Masa tunggu</text>
+    <text x="24" y="202" font-size="12" fill="#5A5A5A">signup ditinjau</text>
+    <line x1="250" y1="190" x2="950" y2="190" stroke="#B3541E" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="250" cy="190" r="8" fill="#B3541E"/>
+    <circle cx="950" cy="190" r="8" fill="#B3541E"/>
+    <text x="600" y="168" text-anchor="middle" font-size="14" font-weight="700" fill="#B3541E">24 jam — dari pengikatan sampai keputusan</text>
+    <text x="250" y="218" text-anchor="middle" font-size="12" fill="#5A5A5A">signup terikat</text>
+    <text x="950" y="218" text-anchor="middle" font-size="12" fill="#5A5A5A">keputusan keluar</text>
+    <text x="24" y="272" font-size="15" font-weight="700" fill="#2E7D32">Pemeriksaan final</text>
+    <text x="24" y="292" font-size="12" fill="#5A5A5A">setelah tenggat</text>
+    <line x1="250" y1="280" x2="950" y2="280" stroke="#2E7D32" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="250" cy="280" r="8" fill="#2E7D32"/>
+    <circle cx="950" cy="280" r="8" fill="#2E7D32"/>
+    <text x="600" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#2E7D32">30 jam — dari tenggat sampai final berakhir</text>
+    <text x="250" y="308" text-anchor="middle" font-size="12" fill="#5A5A5A">tenggat 21 Nov 17:30 WIB</text>
+    <text x="950" y="308" text-anchor="middle" font-size="12" fill="#5A5A5A">final berakhir +30 jam</text>
+  </g>
+</svg>
